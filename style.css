@@ -357,7 +357,7 @@ display: block;
     align-items: center;
     justify-content: center;
     gap: 5px;
-}
+} 
 .links a {
     padding: 0 10px;
     text-decoration: none;
